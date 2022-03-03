@@ -2,7 +2,7 @@
 :wave: Hello there :wave:
 
 - My name is Thuc Nguyen. I am an Engineer :construction_worker: that happens to fall in love with Software :computer:
-- :telescope: I'm currently working on scaling my video chat app with [WebRTC](https://webrtc.org/)
+- :telescope: I'm currently working on scaling my [video chat app](https://github.com/thucngyyen/the-chill-room).
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thucngyyen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thucngyyen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thucngyyen) 
